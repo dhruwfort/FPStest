@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Targets
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
